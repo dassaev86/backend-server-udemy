@@ -28,10 +28,10 @@ exports.verificaToken = function(req, res, next) {
               decoded: decoded
           }); */
     });
-}
+};
 
 
 
 // ===========================================================================
-// Verificar Token
+// Fin de Verificar Token
 // ===========================================================================
