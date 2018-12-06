@@ -30,6 +30,7 @@ var searchRoutes = require('./routes/search');
 var uploadRoutes = require('./routes/upload');
 var imagenesRoutes = require('./routes/imagenes');
 
+
 // Rutas
 app.use('/usuario', usuarioRoutes);
 app.use('/hospital', hospitalRoutes);
